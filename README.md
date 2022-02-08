@@ -1,6 +1,6 @@
-# jeux
+# jeux memory
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨Un simple jeu pour trouve les bon carte est savoir si vous avez un bon memoire 
 
 ## Available Scripts
 
